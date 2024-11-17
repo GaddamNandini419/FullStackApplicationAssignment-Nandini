@@ -1,0 +1,14 @@
+#spring.application.name=BookExchange
+#spring.data.mongodb.uri=mongodb+srv://gaddamnarshimulu0:Nandini.123@bookexchange.0sdwa.mongodb.net/?retryWrites=true&w=majority&appName=BookExchange
+#spring.data.mongodb.database=bookdb
+
+spring:
+  application:
+    name: BookExchange
+  data:
+    mongodb:
+      uri: mongodb+srv://gaddamnarshimulu0:Nandini.123@bookexchange.0sdwa.mongodb.net/?retryWrites=true&w=majority&appName=BookExchange
+      database: bookdb
+      
+      
+
